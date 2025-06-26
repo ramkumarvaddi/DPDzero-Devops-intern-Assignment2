@@ -81,7 +81,7 @@ Big thanks to DPDzero for this hands-on and practical assignment.
 🧠 It strengthened my skills in DevOps fundamentals, containerization, orchestration, and cloud testing.
 
 ## 🔗 Connect With Me
-### 👩‍💼 LinkedIn: Divya Satpute
+### 👩‍💼 LinkedIn: Ram Kumar Vaddi
 
 
 ## Solutions
