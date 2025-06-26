@@ -1,7 +1,7 @@
 # 🚀 DPDzero DevOps Intern Assignment: Nginx Reverse Proxy with Docker Compose
 
-👩‍💻 **Author:** Divya V. Satpute  
-🎯 **Role:** DevOps Intern at DPDzero
+‍💻 **Author:** Ram Kumar Vaddi  
+ **Role:** DevOps Intern at DPDzero
 
 ---
 
@@ -9,10 +9,10 @@
 
 This assignment demonstrates:
 
-- 🐳 Containerizing Go and Python microservices
-- 🔁 Exposing them via Nginx reverse proxy
-- 📦 Running everything using Docker Compose
-- ☁️ Optionally deploying to AWS EC2
+-  Containerizing Go and Python microservices
+-  Exposing them via Nginx reverse proxy
+-  Running everything using Docker Compose
+- Optionally deploying to AWS EC2
 
 ---
 
@@ -95,5 +95,5 @@ Big thanks to DPDzero for this hands-on and practical assignment.
 
 
 ## Video demontration link 
-### h
+### 
 
