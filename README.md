@@ -53,7 +53,6 @@ curl http://localhost:8002/hello
 curl http://localhost:8080/service1/hello
 curl http://localhost:8080/service2/hello
 ## ✅ You should get:
-
 {"message": "Hello from Service 1"}
 {"message": "Hello from Service 2"}
 
@@ -96,5 +95,5 @@ Big thanks to DPDzero for this hands-on and practical assignment.
 
 
 ## Video demontration link 
-### https://drive.google.com/file/d/1XykCtWmVA2q0M4d8B4ARMbSbPKgdnWqi/view?usp=sharing
+### h
 
